@@ -1,0 +1,67 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1700620845363,
+    "data": [
+        {
+            "type": "folder",
+            "name": "blog.mattlohkamp.com"
+        },
+        {
+            "type": "file",
+            "name": "Index of _blog.mattlohkamp.com.url",
+            "size": 241,
+            "hash": "3470649b6b40d7f2450bb5e1e57261a2fbdbbc2f04c6b5acd8c1be2d5a978716"
+        },
+        {
+            "type": "file",
+            "name": "package.json",
+            "size": 637,
+            "hash": "1e611adb54d833edc53a9ae5db6cfb6c5fed412834add3808f41b069028a7584"
+        },
+        {
+            "type": "folder",
+            "name": "src"
+        },
+        {
+            "type": "file",
+            "name": "package-lock.json",
+            "size": 95474,
+            "hash": "aa5303c6b8073b8eaa2f6fbcffe5aa9f1401e34a37fba1f62ac76f04e774fcfe"
+        },
+        {
+            "type": "file",
+            "name": "test",
+            "size": 4,
+            "hash": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
+        },
+        {
+            "type": "file",
+            "name": "blog.mattlohkamp.com/index.html",
+            "size": 51,
+            "hash": "205e50e11a303beb827dbf81b23034e69f718c147a66caf8489aef38e38211a9"
+        },
+        {
+            "type": "folder",
+            "name": "blog.mattlohkamp.com/test"
+        },
+        {
+            "type": "file",
+            "name": "src/index.html",
+            "size": 51,
+            "hash": "205e50e11a303beb827dbf81b23034e69f718c147a66caf8489aef38e38211a9"
+        },
+        {
+            "type": "file",
+            "name": "src/test.md",
+            "size": 505,
+            "hash": "d47309da487944eb1670540cf47eb70bb51ea05c3cdca6753f1423dc713ad75f"
+        },
+        {
+            "type": "file",
+            "name": "blog.mattlohkamp.com/test/index.html",
+            "size": 646,
+            "hash": "c6442bea29027db1b0450e3ced0fe04228fd66c95d2a0f40c00f8e175f010016"
+        }
+    ]
+}

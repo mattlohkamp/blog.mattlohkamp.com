@@ -1,0 +1,25 @@
+{
+  "name": "blog.mattlohkamp.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+	"start": "",
+    "build": "npx @11ty/eleventy --input=src --output=blog.mattlohkamp.com",
+    "deploy": "node deploy.js",
+	"publish": "npm run build && npm run deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ssh2-sftp-client": "^9.1.0"
+  }
+}
